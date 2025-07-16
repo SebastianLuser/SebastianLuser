@@ -79,9 +79,18 @@ I’m passionate about designing deep, balanced gameplay systems and writing cle
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:sebastianv.08.2000@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SebastianLuser" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sebas-luser.itch.io/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-9sjlj1xw.png" width="40" alt="Itch.io" />
   </a>
 </p>
+
 
 
 ---
