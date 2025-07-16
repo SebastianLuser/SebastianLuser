@@ -75,22 +75,20 @@ I’m passionate about designing deep, balanced gameplay systems and writing cle
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-luser-a19494204/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:sebastianv.08.2000@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/SebastianLuser" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://sebas-luser.itch.io/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-9sjlj1xw.png" width="40" alt="Itch.io" />
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
   </a>
 </p>
-
-
 
 ---
