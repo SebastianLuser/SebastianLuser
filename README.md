@@ -73,13 +73,15 @@ I’m passionate about designing deep, balanced gameplay systems and writing cle
 
 ## 🌐 Let's Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sebastianluser/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="LinkedIn logo" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastian-luser-a19494204/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:sebastianv.08.2000@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="Email icon" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sebastianv.08.2000@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Gmail" />
   </a>
-</div>
+</p>
+
 
 ---
